@@ -1,0 +1,29 @@
+.menu_bar{
+    background-color: darkorange;
+    min-height: 58px;
+}
+.menu_bar ul{
+    list-style: none;
+    margin: 0 px;
+    padding: 0 px;
+}
+.menu_bar ul li{
+    float: left;
+}
+.menu_bar ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    display: block;
+    padding:  21px 45px;
+    transition: 0.7;
+   
+    
+    
+}
+.menu_bar ul li a:hover{
+ background-color: skyblue;
+    
+}
+
